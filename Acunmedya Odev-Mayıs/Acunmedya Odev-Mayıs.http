@@ -1,0 +1,6 @@
+@Acunmedya_Odev_Mayıs_HostAddress = http://localhost:5270
+
+GET {{Acunmedya_Odev_Mayıs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
